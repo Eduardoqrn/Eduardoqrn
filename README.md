@@ -1,4 +1,4 @@
-# Eduardoqrn.github.io
+# Eduardoqrn
 
 ### Habilidades
 
