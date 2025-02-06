@@ -1,8 +1,5 @@
 # Eduardoqrn.github.io
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/eduardopaivadesign)
-
-
 ### Habilidades
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
